@@ -29,9 +29,8 @@
       end
     end
 
-|header1|header2|header3|
-|:--|--:|:--:|
-|align left|align right|align center|
-|a|b|c|
+|No.|リーダー|サブリーダー|
+|--:|:--|:--|
+|1|NT|MO|
 
 
