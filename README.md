@@ -7,6 +7,8 @@
 ***
 [Google先生](https://www.google.co.jp/)
 
+    https://www.google.co.jp/
+
 - 感謝
   - ありがとうございます
   - thanks
